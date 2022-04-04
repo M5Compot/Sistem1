@@ -1,0 +1,4 @@
+C:\Users\Админ\source\repos\Task3_Memory\Debug\Task3_Memory.vcxproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Task3_Memory\Debug\Task3Memory.MyForm.resources
+C:\Users\Админ\source\repos\Task3_Memory\Debug\Task3_Memory.vcxproj.GenerateResource.cache
+C:\Users\Админ\source\repos\Task3_Memory\Debug\Task3_Memory.exe

@@ -1,0 +1,4 @@
+C:\Users\Админ\source\repos\Task1_VCL\Debug\Task1_VCL.vcxproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Task1_VCL\Debug\Task1VCL.MyForm.resources
+C:\Users\Админ\source\repos\Task1_VCL\Debug\Task1_VCL.vcxproj.GenerateResource.cache
+C:\Users\Админ\source\repos\Task1_VCL\Debug\Task1_VCL.exe

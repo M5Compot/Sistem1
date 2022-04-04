@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\Админ\source\repos\Task3_Memory\MyForm.h(11,9): warning C4068: неизвестная прагма "package"
+C:\Users\Админ\source\repos\Task3_Memory\MyForm.h(12,9): warning C4068: неизвестная прагма "resource"
+  Source.cpp
+C:\Users\Админ\source\repos\Task3_Memory\MyForm.h(11,9): warning C4068: неизвестная прагма "package"
+C:\Users\Админ\source\repos\Task3_Memory\MyForm.h(12,9): warning C4068: неизвестная прагма "resource"
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Task3_Memory.vcxproj -> C:\Users\Админ\source\repos\Task3_Memory\Debug\Task3_Memory.exe
